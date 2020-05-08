@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'uwe-mapStuff',
+  selector: 'map-withMarker',
   template: `
     <p>
       map-stuff works!
