@@ -1,7 +1,9 @@
 {
   "name": "@uweduesing/map-stuff",
-  "version": "0.0.1",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "version": "0.0.2",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/uweDuesing/mapStuff.git"
@@ -10,5 +12,8 @@
     "@angular/common": "^9.0.7",
     "@angular/core": "^9.0.7",
     "tslib": "^1.10.0"
+  },
+  "dependencies": {
+    "leaflet": "^1.6.0"
   }
 }
